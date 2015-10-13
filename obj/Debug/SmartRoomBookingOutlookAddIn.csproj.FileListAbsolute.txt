@@ -1,0 +1,16 @@
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\bin\Debug\SRB.OutlookAddIn.dll.config
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\bin\Debug\SRB.OutlookAddIn.dll
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\bin\Debug\SRB.OutlookAddIn.pdb
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\bin\Debug\SRB.OutlookAddIn.dll.manifest
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\bin\Debug\SRB.OutlookAddIn.vsto
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\obj\Debug\SmartRoomBookingOutlookAddIn.csprojResolveAssemblyReference.cache
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\obj\Debug\SmartRoomBookingOutlookAddIn.OutlookRibbon.resources
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\obj\Debug\SmartRoomBookingOutlookAddIn.PluginForm.resources
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\obj\Debug\SmartRoomBookingOutlookAddIn.Properties.Resources.resources
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\obj\Debug\SmartRoomBookingOutlookAddIn.csproj.GenerateResource.Cache
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\obj\Debug\SRB.OutlookAddIn.dll
+C:\Users\sit\Desktop\SmartRoomBooking - 28 September 2015\SmartRoomBooking\SmartRoomBookingOutlookAddIn\obj\Debug\SRB.OutlookAddIn.pdb
