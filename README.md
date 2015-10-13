@@ -1,2 +1,0 @@
-# SmartRoomBookingSystem
-# SmartRoomBookingSystem
